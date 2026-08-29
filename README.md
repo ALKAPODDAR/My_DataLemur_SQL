@@ -1,3 +1,3 @@
 # DataLemur
 - https://datalemur.com/profile
-My SQL practice space :)
+- My SQL practice space :)
